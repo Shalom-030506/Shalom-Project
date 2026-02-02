@@ -1,5 +1,5 @@
 # Shalom-Project
-<!doctype html>
+<!DOCTYPE HTML>
 <html>
 <body>
 <h1>Common Indian Cuisine which are the Main reason for cardiovascular disease and Over Weight in India.</h1>
